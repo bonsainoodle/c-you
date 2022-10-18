@@ -223,7 +223,7 @@ export const questions = {
             ],
             answer: 1,
             detailedAnswer:
-                "La suppression de 30 mails équivaut à économiser une ampoule allumée pendant une journée.De plus, la suppression de mails c’est énormément faciliter grâce à des solutions gratuites tel que Cleanfox, ou d’autres sites ayant cette fonction. Enfin une application dûment installée continue d’utiliser les ressources du téléphone et de susciter des mises à jour automatiques.",
+                "La suppression de 30 mails équivaut à économiser une ampoule allumée pendant une journée. De plus, la suppression de mails c’est énormément faciliter grâce à des solutions gratuites tel que Cleanfox, ou d’autres sites ayant cette fonction. Enfin une application dûment installée continue d’utiliser les ressources du téléphone et de susciter des mises à jour automatiques.",
         },
         {
             category: "c",
