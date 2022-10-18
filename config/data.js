@@ -253,7 +253,7 @@ export const questions = {
             type: "TF",
             answer: true,
             detailedAnswer:
-                "La fabrication d’un ordinateur est très polluante. Pour cela on peut, le mettre en veille, optimiser ses capacités en supprimant tout fichier inutile, ne pas le faire surchauffer.",
+                "La fabrication d’un ordinateur est très polluante. Pour parvenir à garder son ordinateur 10 ans, on peut le mettre en veille, optimiser ses capacités en supprimant tout fichier inutile et ne pas le faire surchauffer.",
         },
         {
             category: "c",
