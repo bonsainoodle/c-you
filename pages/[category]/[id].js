@@ -73,7 +73,7 @@ const Question = () => {
                 <>
                     {!answered && (
                         <>
-                            <StyledTitle>{question.title}</StyledTitle>
+                            <StyledTitle>Question {id + 1}</StyledTitle>
                             <StyledParagraph>
                                 {question.description}
                             </StyledParagraph>
@@ -133,7 +133,9 @@ const Question = () => {
                                         ? correctAnswer
                                             ? "'vrai'"
                                             : "'faux'"
-                                        : `'${question.choices[question.answer]}'`}
+                                        : `'${
+                                              question.choices[question.answer]
+                                          }'`}
                                 </StyledParagraph>
                             )}
                             <StyledParagraph>

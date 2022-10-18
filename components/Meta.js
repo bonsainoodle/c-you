@@ -37,8 +37,9 @@ const Meta = ({ title, description, keywords }) => {
 
 Meta.defaultProps = {
     title: "C-You",
-    description: "...",
-    keywords: "...",
+    description:
+        "Découvrez dans des quiz ludiques les impacts du numérique sur l'environnement!",
+    keywords: "",
 };
 
 export default Meta;
