@@ -132,7 +132,7 @@ const Question = () => {
                                 >
                                     La bonne réponse était{" "}
                                     {question.type === "TF"
-                                        ? correctAnswer
+                                        ? question.answer
                                             ? "'vrai'"
                                             : "'faux'"
                                         : `'${
