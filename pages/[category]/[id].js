@@ -74,7 +74,7 @@ const Question = () => {
                     {!answered && (
                         <>
                             <StyledTitle>
-                                Question {parseInt(id) + 1}
+                                Question {parseInt(id, 10) + 1}
                             </StyledTitle>
                             <StyledParagraph>
                                 {question.description}
